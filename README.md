@@ -1,6 +1,6 @@
 # Comparision
 SS316 and SS316L
-| Property / Feature | SS 316 | SS 316L |
+| Property / Feature | SS 316 | SS 316L |    
 | ------ | ---- |------ |
 | Full Name | Stainless Steel 316 | Stainless Steel 316L (Low Carbon) |
 | Carbon Content | Up to 0.08% |	Maximum 0.03% (L = Low Carbon) |
@@ -27,3 +27,4 @@ SS316 and SS316L
 | Post-Weld Heat Treatment |	Sometimes recommended |	Not required |
 | Formability |	Good |	Good |
 | Magnetic Permeability |	Low (near zero in annealed state) |	Low |
+
